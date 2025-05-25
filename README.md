@@ -4,7 +4,7 @@ Article Complexity;
 [] Adept
 [] Expert
 [] Master
-[] Lenendary
+[] Legendary
 
 ## Overview
 The purpose of this project is to demonstrate multi-tier AWS network architecture with.

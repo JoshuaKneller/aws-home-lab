@@ -1,2 +1,20 @@
+#AWS Keys
 *.pem
 *.key
+
+#Vim swap files
+*.swp
+
+#MacOS
+.DS_Store
+
+#AWS  Config
+.aws/
+
+#Terraform
+*.tfstate
+*.tfstate.backup
+
+#Python
+__pycache__/
+*.py[cod]
