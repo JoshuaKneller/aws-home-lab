@@ -68,7 +68,7 @@ The NAT gateway allows private networks to access the internet whilst preventing
     - ssh -i privatekey.pem ubuntu@<Private-EC2-IP>
 - Test IP with something
 
-## I recommend you makes notes as you go, you're a back of flesh powered by electricity from food, you'll forget stuff so write it down.
+## I recommend you makes notes as you go, you're a bag of flesh powered by electricity you get from food, you'll forget stuff so write it down.
 
 ## Well done, your progress so far is;
 - Tier 1: Public EC2 with internet access.
