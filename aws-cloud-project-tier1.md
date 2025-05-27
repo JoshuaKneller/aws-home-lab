@@ -1,4 +1,4 @@
-##AWS Tier 1 Walkthrough
+## AWS Tier 1 Walkthrough
 
 This guide will walk through creating a basic AWS environment with a single EC2 instance inside a public subnet. This is a tier 1 of 3, designed for learning the basics of cloud engineering.
 
