@@ -1,4 +1,4 @@
-## AWS Tier 1 Walkthrough
+## AWS Tier 2 Walkthrough
 This guide is to expand your existing AWS VPC architecture skills by adding a private subnet and enabling internet access from private instances with a NAT gateway. 
 
 - Note: How-to's won't be duplicated here that were mentioned in tier 1, reference tier 1 doc for refresher.
